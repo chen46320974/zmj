@@ -1,0 +1,96 @@
+.header {
+  width: 100%;
+  height: 86px;
+  border-bottom: 1px solid grey;
+  display: inline-flex;
+  padding-left: 362px;
+  line-height: 86px;
+}
+
+.header > ul {
+  list-style: none;
+  display: inherit;
+  font-size: 24px;
+}
+
+.header > ul > li {
+  margin-right: 16px;
+}
+
+.header > span {
+  font-size: 38px;
+  margin-left: 20px;
+}
+
+.basicContainer {
+  width: 1920px;
+}
+
+.modal {
+  width: 1000px;
+  height: 450px;
+  display: inline-flex;
+}
+
+.modal > div {
+  width: calc(50% - 24px);
+  height: 450px;
+}
+
+.modalRight {
+  text-align: center;
+  padding-top: 184px;
+}
+
+.modalRight i {
+  font-size: 42px;
+  margin: 54px 16px 10px 16px;
+}
+
+.modalRight label {
+  margin: 0 9px;
+  width: 55px;
+  display: inline-block;
+}
+
+.modalLeft {
+  padding-top: 152px;
+}
+
+.modalLeft input {
+  margin: 10px auto;
+  border-left: 1px grey solid;
+}
+
+.shiftBtn {
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.shiftBtn:hover {
+  color: lightskyblue;
+}
+
+.requestsContainer {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.questionBlock {
+  width: 100%;
+  border-bottom: 1px solid grey;
+  padding-top: 50px;
+  padding-left: 80px;
+}
+
+.headIcon {
+  height: 122px;
+  width: 122px;
+  border-radius: 50%;
+  background-color: #cccccc;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 122px;
+  font-size: 34px;
+  margin-right: 33px;
+}
