@@ -18,7 +18,7 @@
     "react-dom": "^16.2.0",
     "wangeditor": "^3.1.1",
     "xss": "^1.0.6",
-    "electron": "^5.0.8",
+    "electron": "^13.6.6",
     "electron-packager": "^14.0.3",
     "websql-orm": "^2.5.3",
     "react-json-view": "^1.19.1",
